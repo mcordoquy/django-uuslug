@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+VERSION = (1, 0, 'mcordoquy')
+
 import os
 import pkg_resources 
 
